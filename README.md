@@ -6,8 +6,7 @@
 
 - 🖍️ Right now I am focused on learning Front-End Web Development.
 
-
-- 🌉 I'm passionate about building programs (whether that a webpage or machine learning models) and applying new technologies to solve real-world problems.
+- 🌉 I'm passionate about building programs (whether that's a webpage or machine learning models) and applying new technologies to solve real-world problems.
 
 ## 🔠 Languages I'm learning:
 
