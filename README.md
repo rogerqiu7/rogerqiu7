@@ -29,8 +29,7 @@
 
 ![image](https://user-images.githubusercontent.com/84350865/163717636-a2ef8a70-a7d0-48e7-abcf-42af609e3d3e.png) - rogerqiu7@gmail.com
 
-![image](https://user-images.githubusercontent.com/84350865/163717672-321fca0c-822d-4496-9c47-ea81876659e7.png) - https://www.linkedin.com/in/roger-qiu-apma%C2%AE-998b3b127/
-
+![image](https://user-images.githubusercontent.com/84350865/163717672-321fca0c-822d-4496-9c47-ea81876659e7.png) - https://www.linkedin.com/in/roger-qiu-998b3b127/
 
 ## 🈁 My Top Languages
 
