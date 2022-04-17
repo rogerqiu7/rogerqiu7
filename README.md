@@ -7,9 +7,9 @@
 - 🖍️ Right now I am focused on learning Front-End Web Development.
 
 
-- 🌉 I'm passionate about building programs (whether that a webpage or machine learning models) and exploring new technologies which I can apply to solve real-life problems.
+- 🌉 I'm passionate about building programs (whether that a webpage or machine learning models) and applying new technologies to solve real-world problems.
 
-## 🧰 Languages I'm currently learning:
+## 🧰 Languages i'm learning:
 
 ![image](https://user-images.githubusercontent.com/84350865/163717886-9a6d05c9-26c5-4c4a-9837-dd4176e3424d.png)
 ![image](https://user-images.githubusercontent.com/84350865/163717891-bac92a18-fabf-445d-b2b5-f7ab7b057ede.png)
@@ -28,7 +28,9 @@
 
 ##	📨 Reach me at: 
 
-![image](https://user-images.githubusercontent.com/84350865/163717636-a2ef8a70-a7d0-48e7-abcf-42af609e3d3e.png) ![image](https://user-images.githubusercontent.com/84350865/163717672-321fca0c-822d-4496-9c47-ea81876659e7.png)
+![image](https://user-images.githubusercontent.com/84350865/163717636-a2ef8a70-a7d0-48e7-abcf-42af609e3d3e.png) - rogerqiu7@gmail.com
+
+![image](https://user-images.githubusercontent.com/84350865/163717672-321fca0c-822d-4496-9c47-ea81876659e7.png) - https://www.linkedin.com/in/roger-qiu-apma%C2%AE-998b3b127/
 
 
 ## 🔠 My Top Languages
