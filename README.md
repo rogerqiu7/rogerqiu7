@@ -9,7 +9,7 @@
 
 - 🌉 I'm passionate about building programs (whether that a webpage or machine learning models) and applying new technologies to solve real-world problems.
 
-## 🔠Languages i'm learning:
+## 🔠 Languages I'm learning:
 
 ![image](https://user-images.githubusercontent.com/84350865/163717886-9a6d05c9-26c5-4c4a-9837-dd4176e3424d.png)
 ![image](https://user-images.githubusercontent.com/84350865/163717891-bac92a18-fabf-445d-b2b5-f7ab7b057ede.png)
