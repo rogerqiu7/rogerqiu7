@@ -12,7 +12,6 @@
 ## 🔠 Languages I'm learning:
 
 ![image](https://user-images.githubusercontent.com/84350865/163717886-9a6d05c9-26c5-4c4a-9837-dd4176e3424d.png)
-![image](https://user-images.githubusercontent.com/84350865/163717891-bac92a18-fabf-445d-b2b5-f7ab7b057ede.png)
 ![image](https://user-images.githubusercontent.com/84350865/163717004-02cb52ff-fcb7-426c-8e54-248c1e01d9d6.png)
 ![image](https://user-images.githubusercontent.com/84350865/163716991-b75fdde8-d59d-425d-810e-4d25fbf84e24.png)
 ![image](https://user-images.githubusercontent.com/84350865/163716965-bf3b17cb-68fa-49ef-a5c1-73fe5a74c0a9.png)
