@@ -9,7 +9,7 @@
 
 - 🌉 I'm passionate about building programs (whether that a webpage or machine learning models) and applying new technologies to solve real-world problems.
 
-## 🧰 Languages i'm learning:
+## 🔠Languages i'm learning:
 
 ![image](https://user-images.githubusercontent.com/84350865/163717886-9a6d05c9-26c5-4c4a-9837-dd4176e3424d.png)
 ![image](https://user-images.githubusercontent.com/84350865/163717891-bac92a18-fabf-445d-b2b5-f7ab7b057ede.png)
@@ -17,7 +17,7 @@
 ![image](https://user-images.githubusercontent.com/84350865/163716991-b75fdde8-d59d-425d-810e-4d25fbf84e24.png)
 ![image](https://user-images.githubusercontent.com/84350865/163716965-bf3b17cb-68fa-49ef-a5c1-73fe5a74c0a9.png)
 
-## 🔧 Tools I work with:
+## 🧰 Tools I work with:
 
 ![image](https://user-images.githubusercontent.com/84350865/163717075-dc8faab7-055c-45dd-be90-075547f322b3.png)
 ![image](https://user-images.githubusercontent.com/84350865/163717051-ac006c6c-8d52-4d3a-bfb3-0b728bf8a070.png)
@@ -33,7 +33,7 @@
 ![image](https://user-images.githubusercontent.com/84350865/163717672-321fca0c-822d-4496-9c47-ea81876659e7.png) - https://www.linkedin.com/in/roger-qiu-apma%C2%AE-998b3b127/
 
 
-## 🔠 My Top Languages
+## 🈁 My Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerqiu7&layout=compact)
 
