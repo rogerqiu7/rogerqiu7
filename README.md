@@ -1,4 +1,4 @@
-# 👋 Hi, My name is Roger Qiu, welcome to my GitHub!
+# 👋 Hi, my name is Roger Qiu, welcome to my GitHub!
 
 - 💵 I am currently a financial analyst at WernerCo. 
 
