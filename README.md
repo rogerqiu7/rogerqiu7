@@ -8,7 +8,7 @@
 
 - 🌉 I'm passionate about building programs (whether that's a beautiful webpage or machine learning models) and applying new technologies to solve real-world problems.
 
-## 🔠 Languages I'm learning:
+## 🔠 Languages, Frameworks and Libararies I use:
 
 ![image](https://user-images.githubusercontent.com/84350865/163717886-9a6d05c9-26c5-4c4a-9837-dd4176e3424d.png)
 ![image](https://user-images.githubusercontent.com/84350865/163717004-02cb52ff-fcb7-426c-8e54-248c1e01d9d6.png)
