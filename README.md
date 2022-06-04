@@ -17,7 +17,6 @@
 ![image](https://user-images.githubusercontent.com/84350865/170844253-01ff00a3-90e6-42fb-a317-b21ae132e9d5.png)
 ![image](https://user-images.githubusercontent.com/84350865/170844278-eafe2ddf-a899-4b32-93dc-e7f3d2151dca.png)
 
-
 ## 🧰 Tools I work with:
 
 ![image](https://user-images.githubusercontent.com/84350865/163717075-dc8faab7-055c-45dd-be90-075547f322b3.png)
@@ -26,9 +25,6 @@
 ![image](https://user-images.githubusercontent.com/84350865/163717845-bcfe44fd-fd28-4fbc-985e-b63132860cb0.png)
 ![image](https://user-images.githubusercontent.com/84350865/163717831-65a5fdcb-04f5-437f-b1a9-29495de98ad8.png)
 ![image](https://user-images.githubusercontent.com/84350865/172000360-b26bec38-4564-4a87-96b2-50d1d1cdfb26.png)
-
-
-  
 
 ##	📨 Reach me at: 
 
@@ -39,5 +35,3 @@
 ## 🈁 My Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerqiu7&layout=compact)
-
-
