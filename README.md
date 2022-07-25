@@ -2,9 +2,7 @@
 
 - 📊 I am currently a financial analyst at WernerCo. 
 
-- 🎓 I am an incoming student at the University of San Diego for their Masters in Data Science program. 
-
-- 🖍️ Right now I am focused on learning data engineering processes.
+- 🎓 I'm a student at the University of San Diego for their Masters in Data Science program. 
 
 - 🌉 I'm passionate about building programs (whether that's a beautiful webpage or machine learning models) and applying new technologies to solve real-world problems.
 
