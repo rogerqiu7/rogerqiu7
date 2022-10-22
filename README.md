@@ -1,6 +1,6 @@
 # 👋 Hi, my name is Roger Qiu, welcome to my GitHub!
 
-- 📊 I am currently a financial analyst at WernerCo. 
+- 📊 I am currently a data analyst at NOV. 
 
 - 🎓 I'm a student at the University of San Diego for their Masters in Data Science program. 
 
