@@ -27,8 +27,6 @@
 ![image](https://user-images.githubusercontent.com/84350865/172000360-b26bec38-4564-4a87-96b2-50d1d1cdfb26.png)
 ![image](https://user-images.githubusercontent.com/84350865/177001822-cafe13cc-1cc8-4548-b9cd-02f35f5bf9c0.png)
 
-##	📨 Reach me at: 
+##	📨 Connect with me at: 
+<p> <a href="https://www.linkedin.com/in/rogerqiu7/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
 
-![image](https://user-images.githubusercontent.com/84350865/163717636-a2ef8a70-a7d0-48e7-abcf-42af609e3d3e.png) - rogerqiu7@gmail.com
-
-![image](https://user-images.githubusercontent.com/84350865/163717672-321fca0c-822d-4496-9c47-ea81876659e7.png) - https://www.linkedin.com/in/roger-qiu-998b3b127/
